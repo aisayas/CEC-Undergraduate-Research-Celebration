@@ -41,3 +41,5 @@ This dashboard represents a robust solution for analyzing web traffic logs, offe
 
 <h2>Award</h2>
 <img src="https://i.imgur.com/uoA89rc.jpg" height="50%" width="50%" alt="1"/>
+
+</p>
